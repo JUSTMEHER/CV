@@ -1,6 +1,7 @@
 
       body{
         background-color: #EAF6F6;
+
   }
       hr{
         background-color: transparent;
@@ -12,7 +13,7 @@
   }
       h1{
         color:#66BFBF;
-        font: bold 1.2em "Fira Sans", sans-serif;
+        font: bold 36px "Fira Sans", sans-serif;
   }
       h3{
         color:#57C5B6;
@@ -21,3 +22,27 @@
       p{
         color:#57C5B6;
   }
+  
+  a{
+      color:#57C5B6;
+      
+  }
+  a:hover{
+      color:burlywood;
+  }
+label{
+    color:burlywood;  
+}
+textarea{
+      background-color:#EAF6F6;
+}
+input{
+      border-width: 1px;
+      background-color: #EAF6F6;
+}
+table{
+  color:#57C5B6;
+}
+li{
+  color: #57C5B6;
+}
